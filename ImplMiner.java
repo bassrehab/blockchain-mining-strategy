@@ -1,6 +1,6 @@
-public class StudentMiner extends Miner {
+public class ImplMiner extends Miner {
    
-   public StudentMiner(Block genesisBlock) {
+   public ImplMiner(Block genesisBlock) {
       super(genesisBlock);
    }
 }
